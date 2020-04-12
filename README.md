@@ -1,10 +1,5 @@
 ## Անգլերէն-Հայերէն բառարան macOS-ի համար
 
-Dictionary ծրագիրը | Բառի արագ դիտում
------------- | -------------
-![Image of Yaktocat](/images/img_1.png) | ![Image of Yaktocat](/images/img_2.png)
-
-
 Բառարանը տեղադրելու համար
 1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանը
 2. բացեք Finder-ի պատուհանը
@@ -15,5 +10,8 @@ Dictionary ծրագիրը | Բառի արագ դիտում
 
 Եթե ամէն ինչ հաջող է անցել բայց հայերէն բառարանը չի աւելացել, փորձեք վերագործարկել համակարգիչը։
 
+Dictionary ծրագիրը | Բառի արագ դիտում
+------------ | -------------
+![Image of Yaktocat](/images/img_1.png) | ![Image of Yaktocat](/images/img_2.png)
 
 Բառարանը վերցրել եմ [այստեղից](https://github.com/norayr/baratian_dictionary)։
