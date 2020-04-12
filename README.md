@@ -1,5 +1,9 @@
 ## Անգլերէն-Հայերէն բառարան macOS-ի համար
 
+Dictionary ծրագիրը | Բառի արագ դիտում
+------------ | -------------
+![Image of Yaktocat](/images/img_1.png) | ![Image of Yaktocat](/images/img_2.png)
+
 
 Բառարանը տեղադրելու համար
 1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանից
