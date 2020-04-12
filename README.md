@@ -6,7 +6,7 @@ Dictionary ծրագիրը | Բառի արագ դիտում
 
 
 Բառարանը տեղադրելու համար
-1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանից
+1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանը
 2. բացեք Finder-ի պատուհանը
 3. սեղմէք (⌘) Cmd + (⇧) Shift + G 
 4. բացուած պատուհանում մուտքագրէք՝ ``~/Library/Dictionaries`` եւ սեղմէք "go" կոճակը
