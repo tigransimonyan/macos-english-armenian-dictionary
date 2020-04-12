@@ -2,7 +2,7 @@
 
 
 Բառարանը տեղադրելու համար
-1. ներբեռնէք ``Armenian Dictionary.dictionary`` ֆայլը իմ շտեմարանից
+1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանից
 2. բացեք Finder-ի պատուհանը
 3. սեղմէք (⌘) Cmd + (⇧) Shift + G 
 4. բացուած պատուհանում մուտքագրէք՝ ``~/Library/Dictionaries`` եւ սեղմէք "go" կոճակը
