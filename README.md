@@ -14,4 +14,8 @@ Dictionary ծրագիրը | Բառի արագ դիտում
 ------------ | -------------
 ![Image of Yaktocat](/images/img_1.png) | ![Image of Yaktocat](/images/img_2.png)
 
-Բառարանը վերցրել եմ [այստեղից](https://github.com/norayr/baratian_dictionary)։
+
+## Յաւելուածում օգտագործուած նիւթեր՝  
+
+[Բարաթեանի բառարանը .tab ֆորմատով](https://github.com/norayr/baratian_dictionary)  
+[Բարաթեանի բառարանը .pdf ֆորմատով](http://www.armin.am/images/menus/1720/Angleren_bararan.pdf)
