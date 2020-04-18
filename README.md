@@ -17,5 +17,5 @@ Dictionary ծրագիրը | Բառի արագ դիտում
 
 ## Յաւելուածում օգտագործուած նիւթեր՝  
 
-[Բարաթեանի բառարանը .tab ֆորմատով](https://github.com/norayr/baratian_dictionary)  
+[Բարաթեանի բառարանը .tab ֆորմատով](https://github.com/tigransimonyan/baratian-dictionary-assets)  
 [Բարաթեանի բառարանը .pdf ֆորմատով](http://www.armin.am/images/menus/1720/Angleren_bararan.pdf)
