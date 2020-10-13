@@ -1,14 +1,13 @@
 ## Անգլերէն-Հայերէն բառարան macOS-ի համար
 
 Բառարանը տեղադրելու համար
-1. ներբեռնէք ``Armenian Dictionary.dictionary`` շտեմարանը
-2. բացեք Finder-ի պատուհանը
-3. սեղմէք (⌘) Cmd + (⇧) Shift + G 
-4. բացուած պատուհանում մուտքագրէք՝ ``~/Library/Dictionaries`` եւ սեղմէք "go" կոճակը
-3. ``Armenian Dictionary.dictionary`` ֆայլը դրէք բացուաց թղթապանակի մէջ
-5. բացէք Dictionary ծրագիրը եւ կարգաւորումների (Preferences) մէջից միացրէք՝ Armenian Dictionary-ն։
 
-Եթե ամէն ինչ յաջող է անցել բայց հայերէն բառարանը չի աւելացել, փորձեք վերագործարկել համակարգիչը։
+1. Ներբեռնէք [``Armenian Dictionary.dictionary``](https://github.com/tigransimonyan/macos-english-armenian-dictionary/archive/master.zip) շտեմարանը։
+2. Բացէք `Dictionary.App` ծրագիրը եւ **File** մենյուից ընտրէք **Open Dictionaries Folder**։
+3. ``Armenian Dictionary.dictionary`` ֆայլը դրէք բացուաց թղթապանակի մէջ։
+4. Փակէք եւ նորից բացէք ``Dictionary.App`` ծրագիրը։ Այժմ ծրագրի կարգաւորումների (Preferences) միջից կարող էք միացնել **Armenian Dictionary** բառարանը։
+
+Եթե ամէն ինչ յաջող է անցել բայց հայերէն բառարանը չի աւելացել վերագործարկէք համակարգիչը։
 
 Dictionary ծրագիրը | Բառի արագ դիտում
 ------------ | -------------
